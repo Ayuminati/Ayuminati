@@ -1,10 +1,109 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Sharma
-====================================================================================================================================
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=JetBrains+Mono&
+  size=26&
+  pause=800&
+  color=22D3EE&
+  center=true&
+  vCenter=true&
+  width=760&
+  lines=Ayush+Sharma;Full+Stack+Developer;Building+Aura+Marketplace;React+%7C+Node+%7C+MongoDB;Clean+UI+%7C+Secure+Systems"
+  />
+</p>
 
-Creative engineer |🖋 Poet | 🎨 Artist | 💻 Developer
------------------------------------------------------
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Shipping%20Real%20Products-22D3EE?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
-I'm a passionate creator who finds beauty in both art and technology. Whether it's crafting poetry that resonates with emotions, sketching intricate artwork, or developing seamless web experiences, I always strive to blend creativity with logic. 🔥 What I Do: Poetry & Writing – Author of Something Bout Her: Poems of Love, a heartfelt collection that captures love, conversations, and emotions. Web Development – Skilled in React Native, Web Design, and currently refining my expertise in front-end and full-stack development. Art & Sketching – Expressing emotions through detailed sketches and paintings. 🛠 Tech Stack: Languages: HTML, CSS, JavaScript Frameworks & Libraries: React Native, Bootstrap Tools: Git, VS Code, Figma 🌱 Currently Exploring: Building mobile apps with React Native Enhancing UI/UX design skills Diving deeper into full-stack development 📚 Beyond Tech: I enjoy trying new things, from experimenting with new artistic styles to refining my poetry. If I'm not coding, I'm probably lost in music, lifting weights, or sketching my next piece. Always open to discussions, collaborations, and creative exchanges! 🚀
+---
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [ayusharma17987@gmail.com](mailto:ayusharma17987@gmail.com)
+### 👋 About Me
+
+I build **production-grade systems**, not demos.
+
+Focused on:
+- clean architecture  
+- secure flows (JWT + OTP)  
+- UI that feels intentional  
+- features that survive real users  
+
+Currently shipping **Aura Marketplace** — end-to-end, multi-role, fully tested.
+
+📍 India  
+✉️ **ayusharma17987@gmail.com**
+
+---
+
+### 🚀 Featured Project
+
+#### **Aura Marketplace**
+> Multi-role commerce platform with secure delivery flow
+
+- Customer • Vendor • Rider roles  
+- JWT authentication  
+- OTP-based delivery verification  
+- Order lifecycle: PAID → ASSIGNED → PICKED_UP → DELIVERED  
+- MongoDB + Express backend  
+- React frontend with clean state management  
+
+🔗 **Repo:** https://github.com/Ayuminati/Aura-marketplace
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?
+  i=react,ts,nodejs,express,mongodb,tailwind,git,figma&
+  perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?
+  username=Ayuminati&
+  show_icons=true&
+  theme=tokyonight&
+  hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?
+  user=Ayuminati&
+  theme=tokyonight&
+  hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Flow
+
+<p align="center">
+  <img src="https://github.com/Ayuminati/Ayuminati/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🧠 What I Care About
+
+- Building things that scale  
+- Debugging systems end-to-end  
+- Clean APIs  
+- Minimal but strong UI  
+- Learning by shipping  
+
+---
+
+### 🤝 Open To
+
+- Internships / junior dev roles  
+- Real-world projects  
+- System design & backend work  
+- UI + backend collaborations  
+
+---
+
+> **“Ship. Break. Fix. Repeat.”**
